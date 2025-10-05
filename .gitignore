@@ -1,0 +1,4 @@
+# Archivos de compilación
+*.class
+*.swp
+/tecmilenio-consultapp/target/
